@@ -22,6 +22,9 @@ Desenvolver um sistema de monitoramento e alarme a ser instalado no local onde o
 ## Código
 Definimos as portas e as variáveis, em seguida definimos os inputs e outputs e iniciamos a Serial. Foi definido que se a luminosidade estiver abaixo de 600 o led verde ficará ligado demonstrando que esta em níveis adequados, se estiver maior que 900 o led vermelho será ativado indicando um problema sério. Mas se não, o led amarelo acenderá ativando o buzzer(alarme) por 3 segundos.
 
+## Link para o WOKWI
+https://wokwi.com/projects/410541255649840129
+
 ## Autores
  - Rafaela Heer
  - Julia Hadja
