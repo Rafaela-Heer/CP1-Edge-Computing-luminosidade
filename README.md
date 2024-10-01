@@ -7,7 +7,7 @@ Desenvolver um sistema de monitoramento e alarme a ser instalado no local onde o
 
 
 ## Estrutura
-[imagem]
+<img src="CP1 - O Caso da Vinheria Agnello - Foto da estrutura no arduino.jpeg" alt="Foto da Estrutura do Arduíno">
 
 
 ## Itens necessários 
